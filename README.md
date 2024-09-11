@@ -1,4 +1,5 @@
 <h2 align=center> Hello there 👋</h2>
+
 -  I’m Joseph Tobi Olatilo
 - 👀 I’m a Full Stack Developer ...
 - 🌱 I’m a JavaScript Programmer ...
@@ -23,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![HTML](https://github.com/user-attachments/assets/446aafda-a4a9-4f2c-b55a-868a9c106d9b)
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 <br>
+![NPM](https://github.com/user-attachments/assets/411d5d91-02b3-4f9e-b2b9-40db31223a3f)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -32,3 +34,7 @@ You can click the Preview link to take a look at your changes.
 ![Clerk](https://img.shields.io/badge/Clerk-2A4E89?style=for-the-badge&logo=clerk&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-0B4B70?style=for-the-badge&logo=convex&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Flowbite](https://github.com/user-attachments/assets/be68e2d4-fdc9-46ff-bcdb-a17f034f4edc)
+![Expressjs](https://github.com/user-attachments/assets/de3767dd-8391-4d07-a2da-a43abb64d6b0)
+
+
