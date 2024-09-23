@@ -1,4 +1,4 @@
-<h2 align=center> Hello there 👋</h2>
+<h2 align=center> Hey there 👋</h2>
 
 -  I’m Joseph Tobi Olatilo
 - 👀 I’m a Full Stack Developer ...
