@@ -5,8 +5,8 @@
 - 🌱 I’m a JavaScript Programmer ...
 - 💞️ I’m looking to collaborate on innovative software development projects ...
 - 📫 How to reach me olatilojoseph@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Mr...
+- ⚡ Fun fact: I am a passionate football player...
 
 <!---
 josephOlatiloGit/josephOlatiloGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Css](https://github.com/user-attachments/assets/acf5e3d8-28d6-47a5-9346-1b1b92a2b647)
 ![HTML](https://github.com/user-attachments/assets/446aafda-a4a9-4f2c-b55a-868a9c106d9b)
+![image](https://github.com/user-attachments/assets/e3a26ee2-e9fe-4f93-9ac3-f211b28a7d82)
+
 <br>
 ![shadcn](https://img.shields.io/badge/shadcn-FE7D37?style=for-the-badge&logo=shadcn&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
